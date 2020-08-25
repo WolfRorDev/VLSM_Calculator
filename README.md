@@ -5,7 +5,7 @@ The vlsm calculator algorithm is released under the GNU GENERAL PUBLIC LICENSE. 
 Application page where the algorithm was used: [Microsoft Store](https://www.microsoft.com/store/apps/9N63M39HGQCL) | [Google Play](https://play.google.com/store/apps/details?id=com.WolfRor.NetCalculator)
 
 ## Author information
-The creator of the algorithm is wolfror.<br>
+The creator of the algorithm is Dominik Krzywański.<br>
 Creator's website: [WolfRor](WolfRor.iwhy.me)
 
 # Informacje o kalkulatorze VLSM
@@ -16,5 +16,5 @@ Strona aplikacji, na której zastosowano algorytm: [Microsoft Store](https://www
 
 
 ## Informacje o autorze
-Twórcą algorytmu jest wolfror. <br>
+Twórcą algorytmu jest Dominik Krzywański. <br>
 Witryna twórcy: [WolfRor](WolfRor.iwhy.me)
