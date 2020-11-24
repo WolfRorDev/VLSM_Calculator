@@ -3,6 +3,12 @@ using System.Collections.Generic;
 
 namespace VLSM_Calculator
 {
+    /* Author: Domninik Krzywański
+     * Website: wolfror.iwhy.me
+     * -------------------------
+     * Autor: Dominik Krzywański
+     * Strona internetowa: wolfror.iwhy.me
+     */
     class VLSM_Calc
     {
         static readonly string[] Masks = new string[] {"0.0.0.0", "128.0.0.0", "192.0.0.0", "224.0.0.0", "240.0.0.0", "248.0.0.0", "252.0.0.0", "254.0.0.0",
