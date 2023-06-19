@@ -4,10 +4,10 @@ using System.Collections.Generic;
 namespace VLSM_Calculator
 {
     /* Author: Domninik Krzywański
-     * Website: wolfror.iwhy.me
+     * Website: wolfror.com
      * -------------------------
      * Autor: Dominik Krzywański
-     * Strona internetowa: wolfror.iwhy.me
+     * Strona internetowa: wolfror.com
      */
     class VLSM_Calc
     {
