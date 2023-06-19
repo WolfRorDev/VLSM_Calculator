@@ -6,7 +6,7 @@ Application page where the algorithm was used: [Microsoft Store](https://www.mic
 
 ## Author information
 The creator of the algorithm is Dominik Krzywański.<br>
-Creator's website: [WolfRor](http://WolfRor.iwhy.me)
+Creator's website: [WolfRor](https://wolfror.com)
 
 # Informacje o kalkulatorze VLSM
 ## Informacje ogólne
@@ -17,4 +17,4 @@ Strona aplikacji, na której zastosowano algorytm: [Microsoft Store](https://www
 
 ## Informacje o autorze
 Twórcą algorytmu jest Dominik Krzywański. <br>
-Witryna twórcy: [WolfRor](http://WolfRor.iwhy.me)
+Witryna twórcy: [WolfRor](https://wolfror.com)
